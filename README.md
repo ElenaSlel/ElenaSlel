@@ -3,10 +3,18 @@
 ## ќ себе
 ћотивированный и внимательный к детал€м junior-тестировщик с базовыми знани€ми в области тестировани€ программного обеспечени€. »мею понимание жизненного цикла разработки ѕќ, принципов тестировани€ и работы с баг-трекинговыми системами. —тремлюсь развивать навыки в области ручного и автоматизированного тестировани€, а также углубл€ть знани€ в специализированных инструментах и методологи€х. ќбладаю аналитическим складом ума, ответственно подхожу к выполнению задач и умею работать в команде. √отова обучатьс€ и примен€ть полученные знани€ на практике дл€ обеспечени€ высокого качества продуктов.
 
+### »нструменты
+![MySQL](https://shields.microej.com/badge/-MySQL-243066?style=for-the-badge&logo=MySQL&logoColor=b5e5ff)
+![Postman](https://shields.microej.com/badge/-Postman-243066?style=for-the-badge&logo=Postman&logoColor=b5ffca)
+![Charles](https://shields.microej.com/badge/-Charles-243066?style=for-the-badge&logo=Charles&logoColor=8fff82)
+![TestIt](https://shields.microej.com/badge/-TestIt-243066?style=for-the-badge&logo=TestIt&logoColor=d8b5ff)
+![Jira](https://shields.microej.com/badge/-Jira-243066?style=for-the-badge&logo=Jira&logoColor=fffdbd)
+![Devtools](https://shields.microej.com/badge/-Devtools-243066?style=for-the-badge&logo=Devtools&logoColor=ffdaba)
+![Fiddler](https://shields.microej.com/badge/-Fiddler-243066?style=for-the-badge&logo=Fiddler&logoColor=ffbeba)
+![Github](https://shields.microej.com/badge/-Github-243066?style=for-the-badge&logo=Github&logoColor=7a83ff)
+![Bash](https://shields.microej.com/badge/-Bash-243066?style=for-the-badge&logo=Bash&logoColor=b5e5ff)
+### “естова€ документаци€
 
-Latest 
+###  —оциальные сети
 
-### Languages and Tools
-![SQL](https://shields.microej.com/badge/-SQL-243066?style=for-the-badge&logo=MySQL&logoColor=b5e5ff)
 
-### Follow Me
