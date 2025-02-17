@@ -6,5 +6,6 @@
 Latest 
 
 Languages and Tools
+![SQL](https://shields.microej.com/badge/-SQL-243066?style=for-the-badge&logo=MySQL&logoColor=b5e5ff)
 
 Follow Me
