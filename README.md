@@ -17,7 +17,7 @@
 - [Чек-лист]()
 - [Tест-кейс]()
 - [Отчетов о дефекте]()
-- [Тестовое задание Postman]()
+- [Тестовое задание Postman](https://github.com/ElenaSlel/Postman.git)
 - [Тестовое задание MySQL](https://github.com/ElenaSlel/MySQL.git)
 ###  Социальные сети
 ![Telegram](https://shields.microej.com/badge/-Telegram-243066?style=for-the-badge&logo=Telegram&logoColor=b5e5ff)
