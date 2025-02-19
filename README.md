@@ -13,15 +13,16 @@
 ![Fiddler](https://shields.microej.com/badge/-Fiddler-243066?style=for-the-badge&logo=Fiddler&logoColor=ffbeba)
 ![Github](https://shields.microej.com/badge/-Github-243066?style=for-the-badge&logo=Github&logoColor=7a83ff)
 ![Bash](https://shields.microej.com/badge/-Bash-243066?style=for-the-badge&logo=Bash&logoColor=b5e5ff)
+
 ### Тестовая документация
 - [Чек-лист](https://github.com/ElenaSlel/-.git)
 - [Tест-кейс](https://github.com/ElenaSlel/-.git)
 - [Отчетов о дефекте](https://github.com/ElenaSlel/-.git)
 - [Тестовое задание Postman](https://github.com/ElenaSlel/Postman.git)
 - [Тестовое задание MySQL](https://github.com/ElenaSlel/MySQL.git)
+- 
 ###  Социальные сети
-![Telegram](https://shields.microej.com/badge/-Telegram-243066?style=for-the-badge&logo=Telegram&logoColor=b5e5ff)
-![Почта](https://shields.microej.com/badge/-email-243066?style=for-the-badge&logo=email&logoColor=b5e5ff)
+![[Telegram](https://shields.microej.com/badge/-Telegram-243066?style=for-the-badge&logo=Telegram&logoColor=b5e5ff)](https://t.me.ElenaIS9)
 
 ### Курсы
 - [Тестирование ПО с нуля. Теория + Практика](https://stepik.org/cert/2710306)
