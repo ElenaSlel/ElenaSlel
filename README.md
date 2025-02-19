@@ -23,3 +23,6 @@
 ![Telegram](https://shields.microej.com/badge/-Telegram-243066?style=for-the-badge&logo=Telegram&logoColor=b5e5ff)
 ![Почта](https://shields.microej.com/badge/-email-243066?style=for-the-badge&logo=email&logoColor=b5e5ff)
 
+### Курсы
+![Тестирование ПО с нуля. Теория + Практика](https://stepik.org/cert/2710306)
+![Тестирование ПО: Postman для тестирования API](https://stepik.org/cert/2711956)
