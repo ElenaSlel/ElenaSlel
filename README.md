@@ -22,7 +22,7 @@
 - [Тестовое задание MySQL](https://github.com/ElenaSlel/MySQL.git)
 - 
 ###  Социальные сети
-![[Telegram](https://t.me.ElenaIS9)](https://shields.microej.com/badge/-Telegram-243066?style=for-the-badge&logo=Telegram&logoColor=b5e5ff)
+[![Telegram](https://vk.com/video-44023521_456239164(https://shields.microej.com/badge/-Telegram-243066?style=for-the-badge&logo=Telegram&logoColor=b5e5ff)](https://vk.com/video-44023521_456239164)
 
 ### Курсы
 - [Тестирование ПО с нуля. Теория + Практика](https://stepik.org/cert/2710306)
