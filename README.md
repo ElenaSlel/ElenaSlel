@@ -20,7 +20,6 @@
 - [Отчетов о дефекте](https://github.com/ElenaSlel/-.git)
 - [Тестовое задание Postman](https://github.com/ElenaSlel/Postman.git)
 - [Тестовое задание MySQL](https://github.com/ElenaSlel/MySQL.git)
-- 
 
 ### Курсы
 - [Тестирование ПО с нуля. Теория + Практика](https://stepik.org/cert/2710306)
