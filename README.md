@@ -15,9 +15,7 @@
 ![Bash](https://shields.microej.com/badge/-Bash-243066?style=for-the-badge&logo=Bash&logoColor=b5e5ff)
 
 ### Тестовая документация
-- [Чек-лист](https://github.com/ElenaSlel/-.git)
-- [Tест-кейс](https://github.com/ElenaSlel/-.git)
-- [Отчетов о дефекте](https://github.com/ElenaSlel/-.git)
+- [Чек-лист. Tест-кейс. Отчетов о дефекте](https://github.com/ElenaSlel/-.git)
 - [Тестовое задание Postman](https://github.com/ElenaSlel/Postman.git)
 - [Тестовое задание MySQL](https://github.com/ElenaSlel/MySQL.git)
 
