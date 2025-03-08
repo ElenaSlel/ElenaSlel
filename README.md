@@ -20,3 +20,4 @@
 ### Курсы
 - [Тестирование ПО с нуля. Теория + Практика](https://stepik.org/cert/2710306)
 - [Тестирование ПО: Postman для тестирования API](https://stepik.org/cert/2711956)
+- [Введение в SQL](https://stepik.org/cert/2777104)
